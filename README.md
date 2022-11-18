@@ -1,4 +1,4 @@
-# mosha-club-posse-univ
+# mosha-club-posse
 ## level1-1
 ### 使用させていただいたサイト(2022/11/17)
 
