@@ -5,8 +5,8 @@
 - https://code-step.com/profile-menu/
 
 ### 完成のめやす
+![mosha-club-level1-1-detail](https://user-images.githubusercontent.com/107479598/202722855-cca3c031-50a7-4fea-811c-a5157cf32089.png)
+![mosha-club-level1-1-sp-detail](https://user-images.githubusercontent.com/107479598/202722875-7dbddcbd-0ec6-4653-b090-cdd2f9bf7c96.png)
 
-![mosha-club-level1-1-top](https://user-images.githubusercontent.com/107479598/202441603-f3ab0638-568e-4bc9-9227-b706d1dc56f2.png)
-![mosha-club-level1-1-sp-top](https://user-images.githubusercontent.com/107479598/202441717-474968ba-6c68-44e2-9780-0336f175de54.png)
 
 
