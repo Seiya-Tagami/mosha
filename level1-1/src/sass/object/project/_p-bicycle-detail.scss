@@ -1,0 +1,36 @@
+.p-bicycle-detail {
+  &__container {
+    padding: 0 40px;
+
+    & img {
+      display: block;
+      width: 100%;
+      height: 480px;
+    }
+  }
+
+  &__text {
+    padding: 30px;
+
+    & h2 {
+      font-size: 21px;
+      font-weight: bold;
+    }
+
+    & p {
+      margin-top: 30px;
+      font-size: 14px;
+    }
+
+    & p + p {
+      margin-top: 20px;
+    }
+  }
+
+  &__link {
+    margin-top: 20px;
+    margin-bottom: 60px;
+    text-align: center;
+    font-size: 14px;
+  }
+}

@@ -353,6 +353,7 @@ img {
 
 .p-bicycle {
   margin-top: 97px;
+  margin-bottom: 100px;
 }
 .p-bicycle__container {
   display: flex;
@@ -405,9 +406,37 @@ img {
 
 .p-footer {
   height: 60px;
-  margin-top: 100px;
   color: #383E45;
   font-size: 10px;
   text-align: center;
   line-height: 60px;
+}
+
+.p-bicycle-detail__container {
+  padding: 0 40px;
+}
+.p-bicycle-detail__container img {
+  display: block;
+  width: 100%;
+  height: 480px;
+}
+.p-bicycle-detail__text {
+  padding: 30px;
+}
+.p-bicycle-detail__text h2 {
+  font-size: 21px;
+  font-weight: bold;
+}
+.p-bicycle-detail__text p {
+  margin-top: 30px;
+  font-size: 14px;
+}
+.p-bicycle-detail__text p + p {
+  margin-top: 20px;
+}
+.p-bicycle-detail__link {
+  margin-top: 20px;
+  margin-bottom: 60px;
+  text-align: center;
+  font-size: 14px;
 }/*# sourceMappingURL=common.css.map */
