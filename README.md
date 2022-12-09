@@ -1,1 +1,1 @@
-# mosha-club-posse
+# mosha
